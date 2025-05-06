@@ -13,7 +13,8 @@
 ## 🔍 Initial Recon
 
 Image format: PNG  
-Filename: `image.jpg` (converted to grayscale using Pillow)  
+![photo-concours](https://github.com/user-attachments/assets/976459f3-1d06-4918-bc88-a71d19d7d06c)
+
 Tools tested:
 
 - `strings` (no result)
