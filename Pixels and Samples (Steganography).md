@@ -65,7 +65,8 @@ for (h, w) in factor_pairs(num_pixels):
 ## 🖼️ Solution
 
 - The image that revealed the flag was: `gray_1273x2325.png`
-    ![[gray_1273x2325 1.png]]
+    ![Alt text](files/gray_1273x2325.png)
+
 - It showed a **cat wrapped in a blanket** with a caption
 - After horizontally flipping the image, the flag was clearly readable:
     
