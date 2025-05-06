@@ -1,0 +1,9 @@
+# Ignore Obsidian-specific settings
+.obsidian/
+workspace.json
+.DS_Store
+Thumbs.db
+
+# Ignore common clutter
+*.log
+*.tmp
