@@ -2,7 +2,7 @@
 
 These are a few writeups I remember and found fun at **CyberSpark**, where my team **chmoula** proudly took **first place** 🏆!
 
-### 🥇 1st Place – Y M
+### 🥇 1st Place
 
 ---
 
